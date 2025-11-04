@@ -1,0 +1,18 @@
+[
+    {
+        "username": "ali",
+        "password": "Aa123456",
+        "email address": "ali-123@gmail.com",
+        "security question": "first school",
+        "answer": "shahed",
+        "role": "admin"
+    },
+    {
+        "username": "sara",
+        "password": "sS654321",
+        "email address": "s@gmail.com",
+        "security question": "wyfc",
+        "answer": "red",
+        "role": "user"
+    }
+]

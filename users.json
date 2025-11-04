@@ -1,0 +1,26 @@
+[
+    {
+        "username": "haniye",
+        "password": "Hh123456",
+        "email address": "haniye@yahoo.com",
+        "security_question": "whats your last name?",
+        "answer": "rajabzade",
+        "role": "admin"
+    },
+    {
+        "username": "amir",
+        "password": "aA123456",
+        "email address": "amir@gmail.com",
+        "security_question": "favourite color",
+        "answer": "blue",
+        "role": "admin"
+    },
+    {
+        "username": "sara",
+        "password": "Ss123456",
+        "email address": "sara@gmail.com",
+        "security_question": "wyfc",
+        "answer": "red",
+        "role": "user"
+    }
+]

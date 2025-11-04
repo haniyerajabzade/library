@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Bustan",
+        "author": "Saadi",
+        "publication year": "1257",
+        "book's ID": 701763,
+        "borrowers": []
+    },
+    {
+        "name": "My Uncle Napoleon",
+        "author": "Iraj Pezeshkzad",
+        "publication year": 1973,
+        "book's ID": 356807,
+        "borrowers": []
+    },
+    {
+        "name": "Missing Soluch",
+        "author": "Mahmoud Dowlatabadi",
+        "publication year": 1979,
+        "book's ID": 157999,
+        "borrowers": [
+            {
+                "username": "amir",
+                "checkout time": "2025-08-29",
+                "return time": "2025-09-12"
+            }
+        ]
+    },
+    {
+        "name": "Kelidar",
+        "author": "Mahmoud Dowlatabadi",
+        "publication year": 1984,
+        "book's ID": 600339,
+        "borrowers": []
+    }
+]
